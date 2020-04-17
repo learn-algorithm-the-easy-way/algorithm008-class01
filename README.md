@@ -1,5 +1,11 @@
 # 极客大学「算法训练营-第8期」作业提交仓库
 
+## Python作业地址
+
+* [stefan-rz/algorithm008-class01](https://github.com/stefan-rz/algorithm008-class01)
+* [ZHHJemotion/algorithm008-class01](https://github.com/ZHHJemotion/algorithm008-class01)
+* [jake221/algorithm008-class01](https://github.com/jake221/algorithm008-class01)
+* [ws2823147532/algorithm008-class01](https://github.com/ws2823147532/algorithm008-class01)
 
 ## 讲师课件下载地址
 
