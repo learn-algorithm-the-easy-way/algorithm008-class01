@@ -27,19 +27,19 @@
 ### 本周算法习题库：
 
 #### 第三课课后习题：
-https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/
-https://leetcode-cn.com/problems/rotate-array/
-https://leetcode-cn.com/problems/merge-two-sorted-lists/
-https://leetcode-cn.com/problems/merge-sorted-array/
-https://leetcode-cn.com/problems/two-sum/
-https://leetcode-cn.com/problems/move-zeroes/
-https://leetcode-cn.com/problems/plus-one/
+* https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/
+* https://leetcode-cn.com/problems/rotate-array/
+* https://leetcode-cn.com/problems/merge-two-sorted-lists/
+* https://leetcode-cn.com/problems/merge-sorted-array/
+* https://leetcode-cn.com/problems/two-sum/
+* https://leetcode-cn.com/problems/move-zeroes/
+* https://leetcode-cn.com/problems/plus-one/
 
 #### 第四课课后习题：
-https://leetcode.com/problems/design-circular-deque
-https://leetcode.com/problems/trapping-rain-water/
-用add first或add last这套新的API改写Deque的代码
-分析Queue和Priority Queue的源码
+* https://leetcode.com/problems/design-circular-deque
+* https://leetcode.com/problems/trapping-rain-water/
+* 用add first或add last这套新的API改写Deque的代码
+* 分析Queue和Priority Queue的源码
 
 改写代码和分析源码这两项作业，需要在你的本周学习总结中一并提交。
 
