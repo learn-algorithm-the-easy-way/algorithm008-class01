@@ -35,21 +35,48 @@
 * 283 -> https://leetcode-cn.com/problems/move-zeroes/
 * 66  -> https://leetcode-cn.com/problems/plus-one/
 
+Linked List 实战题目
+
+Array 实战题目
+* 11 -> https://leetcode-cn.com/problems/container-with-most-water/
+* 283 -> https://leetcode-cn.com/problems/move-zeroes/
+* 70 -> https://leetcode.com/problems/climbing-stairs/
+* 15 -> https://leetcode-cn.com/problems/3sum/
+
+Linked List 实战题目
+* 24 -> https://leetcode.com/problems/swap-nodes-in-pairs/
+* 25 -> https://leetcode.com/problems/reverse-nodes-in-k-group/
+* 141 -> https://leetcode.com/problems/linked-list-cycle/
+* 142 -> https://leetcode.com/problems/linked-list-cycle-ii/
+* 206 -> https://leetcode.com/problems/reverse-linked-list/
+
 #### 第四课课后习题：
 * 641 -> https://leetcode.com/problems/design-circular-deque
 * 42  -> https://leetcode.com/problems/trapping-rain-water/
 * 用add first或add last这套新的API改写Deque的代码
 * 分析Queue和Priority Queue的源码
 
+第四课预习题目
+* 20  -> https://leetcode-cn.com/problems/valid-parentheses/
+* 155 -> https://leetcode-cn.com/problems/min-stack/
+第四课实战题目
+* 84 -> https://leetcode-cn.com/problems/largest-rectangle-in-histogram/
+* 239 -> https://leetcode-cn.com/problems/sliding-window-maximum/
+
+
 #### 刷题狂魔
 
 * day1: 283  ->
 * day2: 66   ->
 * day3: 189  ->
-* day4: 1281 -> 
+* day4: 1281 -> Done
 * day5: 977  ->  
+* day6: 917  -> Done
+* day7: 面试题50 -> Done -> https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/
+
 
 #### 其他
 改写代码和分析源码这两项作业，需要在你的本周学习总结中一并提交。
+
 
 
