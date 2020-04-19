@@ -28,40 +28,40 @@
 
 #### 第三课课后习题：
 * 26  -> 
-* 189 -> https://leetcode-cn.com/problems/rotate-array/
-* 21  -> Done -> https://leetcode-cn.com/problems/merge-two-sorted-lists/
-* 88  -> https://leetcode-cn.com/problems/merge-sorted-array/
-* 1   -> Done -> https://leetcode-cn.com/problems/two-sum/
-* 283 -> https://leetcode-cn.com/problems/move-zeroes/
-* 66  -> https://leetcode-cn.com/problems/plus-one/
+* 189 -> 
+* 21  -> Done -> 
+* 88  -> 
+* 1   -> Done 
+* 283 -> 
+* 66  -> 
 
 Linked List 实战题目
 
 Array 实战题目
-* 11 -> https://leetcode-cn.com/problems/container-with-most-water/
-* 283 -> https://leetcode-cn.com/problems/move-zeroes/
-* 70 -> https://leetcode.com/problems/climbing-stairs/
-* 15 -> https://leetcode-cn.com/problems/3sum/
+* 11 -> 
+* 283 -> 
+* 70 -> 
+* 15 -> 
 
 Linked List 实战题目
-* 24 -> https://leetcode.com/problems/swap-nodes-in-pairs/
-* 25 -> https://leetcode.com/problems/reverse-nodes-in-k-group/
-* 141 -> https://leetcode.com/problems/linked-list-cycle/
-* 142 -> https://leetcode.com/problems/linked-list-cycle-ii/
-* 206 -> https://leetcode.com/problems/reverse-linked-list/
+* 24 -> 
+* 25 -> 
+* 141 -> 
+* 142 -> 
+* 206 -> 
 
 #### 第四课课后习题：
-* 641 -> https://leetcode.com/problems/design-circular-deque
-* 42  -> https://leetcode.com/problems/trapping-rain-water/
+* 641 -> 
+* 42  -> 
 * 用add first或add last这套新的API改写Deque的代码
 * 分析Queue和Priority Queue的源码
 
 第四课预习题目
-* 20  -> https://leetcode-cn.com/problems/valid-parentheses/
-* 155 -> https://leetcode-cn.com/problems/min-stack/
+* 20  -> 
+* 155 -> 
 第四课实战题目
-* 84 -> https://leetcode-cn.com/problems/largest-rectangle-in-histogram/
-* 239 -> https://leetcode-cn.com/problems/sliding-window-maximum/
+* 84 -> 
+* 239 -> 
 
 
 #### 刷题狂魔
@@ -72,7 +72,7 @@ Linked List 实战题目
 * day4: 1281 -> Done
 * day5: 977  ->  
 * day6: 917  -> Done
-* day7: 面试题50 -> Done -> https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/
+* day7: 面试题50 -> Done 
 
 
 #### 其他
