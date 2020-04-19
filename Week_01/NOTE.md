@@ -27,7 +27,7 @@
 ### 本周算法习题库：
 
 #### 第三课课后习题：
-* 26  -> https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/
+* 26  -> 
 * 189 -> https://leetcode-cn.com/problems/rotate-array/
 * 21  -> Done -> https://leetcode-cn.com/problems/merge-two-sorted-lists/
 * 88  -> https://leetcode-cn.com/problems/merge-sorted-array/
