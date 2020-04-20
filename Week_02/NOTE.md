@@ -2,6 +2,8 @@
 
 ## 情况说明
 
+推荐一个软件：【艾宾浩斯遗忘曲线辅助软件：MemoryHelper】     这个软件可以提醒大家过五毒神掌～  帮助大家学习哦～ from 林林
+
 ### 时间花销
 
 ### 本周计划&总结
@@ -16,9 +18,9 @@
 ## 作业完成情况
 
 
-|序号|来源|
-|---|---|
-|0299|stkmw2d1|
+|序号|来源|第一遍|时间|
+|---|---|---|---|
+|0299|stkmw2d1|Done|2020-04-20|
 |0290|stkmw2d1|
 |0283|stkmw2d1|
 
@@ -76,7 +78,49 @@
 
 
 
-## 算法训练营（第8期）第一周作业
+## 算法训练营（第8期）第二周作业
 
-来源： 
+来源： https://github.com/algorithm008-class01/algorithm008-class01/issues/10
+
+> # 要求
+> 1. 每周从覃超老师布置的题目中，至少完成并提交两道算法题
+> 2. 围绕每周重点学习的算法知识点，撰写一篇有观点和思考的技术文章或总结，切忌流水账。
+> 3. 每周需要 review 并点评至少 5 位同学的代码作业或学习总结
+> 
+> # 作业提交 Deadline
+> 2020年4月26日 23:59 （以当地时间为准）
+> 未按时提交作业，会在个人作业总分中 -2 分
+> 
+> # 本周作业概述
+> 本周需要完成学习的视频内容：
+> 
+> * 第 5 课 | 哈希表、映射、集合
+> * 第 6 课 | 树、二叉树、二叉搜索树
+> * 第 6 课 | 堆和二叉堆、图
+> 
+> **其中，第 5 课的课后作业（第2节视频后）还包括：**
+> 
+> * 写一个关于HashMap的小总结
+>   说明：对于不熟悉Java语言的同学，此项作业可选做。
+> 
+> **请大家将此部分作业，放在本周学习总结中一并提交**
+> 
+> # 本周算法习题库：
+> **简单**
+> 写一个关于 HashMap 的小总结。
+> 说明：对于不熟悉 Java 语言的同学，此项作业可选做。
+> https://leetcode-cn.com/problems/valid-anagram/description/
+> https://leetcode-cn.com/problems/two-sum/description/
+> https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/
+> HeapSort ：自学 https://www.geeksforgeeks.org/heap-sort/
+> 
+> **中等**
+> https://leetcode-cn.com/problems/group-anagrams/
+> https://leetcode-cn.com/problems/binary-tree-inorder-traversal/
+> https://leetcode-cn.com/problems/binary-tree-preorder-traversal/
+> https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/
+> https://leetcode-cn.com/problems/chou-shu-lcof/
+> https://leetcode-cn.com/problems/top-k-frequent-elements/
+
+
 
