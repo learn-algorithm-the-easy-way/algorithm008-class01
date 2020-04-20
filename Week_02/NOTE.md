@@ -17,12 +17,17 @@
 
 ## 作业完成情况
 
+HeapSort ：自学 https://www.geeksforgeeks.org/heap-sort/
+
 
 |序号|来源|第一遍|时间|
 |---|---|---|---|
 |0299|stkmw2d1|Done|2020-04-20|
 |0290|stkmw2d1|
 |0283|stkmw2d1|
+|0242|w2l5v2|Done|2020-04-20|
+|0049|w2l5v2|
+|0001|w2l5v2|
 
 
 
