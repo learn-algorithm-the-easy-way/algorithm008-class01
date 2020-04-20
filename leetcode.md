@@ -24,7 +24,9 @@
 |0189||stkmw1d3,homeworkw1l3||https://leetcode-cn.com/problems/rotate-array/|||
 |0206||||https://leetcode.com/problems/reverse-linked-list/|||
 |0239||||https://leetcode-cn.com/problems/sliding-window-maximum/|||
-|0283||stkmw1d1,homeworkw1l3||https://leetcode-cn.com/problems/move-zeroes/|||
+|0283||stkmw1d1,homeworkw1l3,stkmw2d1||https://leetcode-cn.com/problems/move-zeroes/|||
+|0290||stkmw2d1||https://leetcode-cn.com/problems/word-pattern/|||
+|0299||stkmw2d1||https://leetcode-cn.com/problems/bulls-and-cows/|||
 |0641||homeworkl1l4||https://leetcode.com/problems/design-circular-deque|||
 |0917|Done|stkmw1d6|双指针、栈|https://leetcode-cn.com/problems/reverse-only-letters/|||
 |0977||stkmw1d5||https://leetcode-cn.com/problems/squares-of-a-sorted-array/||||
