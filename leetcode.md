@@ -44,7 +44,7 @@
 |0142||w1l3homework|linked list|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii/) \ [cn](https://leetcode-cn.com/problems/linked-list-cycle-ii/)|||
 |0144||w2l6v2,w2l6homework|二叉树前序遍历|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) \ [cn](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|||
 |0155||w1l4preview,w1l4v2||[min-stack](https://leetcode.com/problems/min-stack/) \ [cn](https://leetcode-cn.com/problems/min-stack/)|||
-|0169||w3l8v3homework|[majority-element](https://leetcode.com/problems/majority-element/) \ [cn](https://leetcode-cn.com/problems/majority-element/)|
+|0169||w3l8v3homework||[majority-element](https://leetcode.com/problems/majority-element/) \ [cn](https://leetcode-cn.com/problems/majority-element/)|
 |0189||w1stkmd3,homeworkw1l3||[rotate-array](https://leetcode.com/problems/rotate-array/) \ [cn](https://leetcode-cn.com/problems/rotate-array/)|||
 |0200||w2l6v5,w2l6homework||[number-of-islands](https://leetcode.com/problems/number-of-islands) \ [cn](https://leetcode-cn.com/problems/number-of-islands/)|||
 |0206||w1l3v4,w1l3homework|linked list|[reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/) \ [cn](https://leetcode-cn.com/problems/reverse-linked-list/)|||
@@ -74,17 +74,17 @@
 |0977||w1stkmd5||[squares-of-a-sorted-array](https://leetcode.com/problems/squares-of-a-sorted-array/) \ [cn](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)||||
 |1021||w2stkmd10||[remove-outermost-parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) \ [cn](https://leetcode-cn.com/problems/remove-outermost-parentheses/)|
 |1200||w2stkmd13||[minimum-absolute-difference](https://leetcode.com/problems/minimum-absolute-difference/) \ [cn](https://leetcode-cn.com/problems/minimum-absolute-difference/)|
-|1276||w3stkmd16|[number-of-burgers-with-no-waste-of-ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/) \ [cn](https://leetcode-cn.com/problems/number-of-burgers-with-no-waste-of-ingredients/)|
+|1276||w3stkmd16||[number-of-burgers-with-no-waste-of-ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/) \ [cn](https://leetcode-cn.com/problems/number-of-burgers-with-no-waste-of-ingredients/)|
 |1281||w1stkmd4||[subtract-the-product-and-sum-of-digits-of-an-integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) \ [cn](https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|||
 |面试题05||w3stkmd17||[cn](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)|
 |面试题06||w3stkmd17||[cn](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)only|
 |面试题40||w1preview,w2l6v4,w2l6homework|sort，大根堆，快排|[cn](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) only|||
-|面试题49||w2l6v4homework||[]() \ [cn](https://leetcode-cn.com/problems/chou-shu-lcof/)|和264题相同|||
-|面试题50|✓|w1stkmd7|哈希、散列表|[]() \ [cn](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)|||
-|面试题59||w2stkmd10||[cn](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/)only|
-|面试题68||w3stkmd17||[cn](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/)only|||
-|面试题01.08||w2stkmd13||[cn](https://leetcode-cn.com/problems/zero-matrix-lcci/)only||
-|面试题17.09||w2stkmd09,w3stkmd15||[cn](https://leetcode-cn.com/problems/get-kth-magic-number-lcci/)only||
+|面试题49||w2l6v4homework||[]() \ [cn](https://leetcode-cn.com/problems/chou-shu-lcof/) only|和264题相同|||
+|面试题50|✓|w1stkmd7|哈希、散列表|[]() \ [cn](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) only|||
+|面试题59||w2stkmd10||[cn](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/) only|
+|面试题68||w3stkmd17||[cn](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/) only|||
+|面试题01.08||w2stkmd13||[cn](https://leetcode-cn.com/problems/zero-matrix-lcci/) only||
+|面试题17.09||w2stkmd09,w3stkmd15||[cn](https://leetcode-cn.com/problems/get-kth-magic-number-lcci/) only||
 
 缩写说明
 
