@@ -6,10 +6,10 @@
 |---|---|---|---|---|---|---|---|---|---|---|
 |0001|Done|homeworkw1l3,w2l5v2|哈希表|[two-sum](https://leetcode.com/problems/two-sum/) \ [cn](https://leetcode-cn.com/problems/two-sum/)|
 |0011||||[container-with-most-water](https://leetcode.com/problems/container-with-most-water/) \ [cn](https://leetcode-cn.com/problems/container-with-most-water/)|||
-|0015||||[]() \ [cn](https://leetcode-cn.com/problems/3sum/)|||
-|0020||previeww1l4||[]() \ [cn](https://leetcode-cn.com/problems/valid-parentheses/)|||
-|0021|Done|homeworkw1l3||[]() \ [cn](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|||
-|0022||previeww2l6,w3l7v2||[]() \ [cn](https://leetcode-cn.com/problems/generate-parentheses/)|||
+|0015||||[3sum](https://leetcode.com/problems/3sum/) \ [cn](https://leetcode-cn.com/problems/3sum/)|||
+|0020||previeww1l4||[valid-parentheses](https://leetcode.com/problems/valid-parentheses) \ [cn](https://leetcode-cn.com/problems/valid-parentheses/)|||
+|0021|Done|homeworkw1l3||[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/) \ [cn](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|||
+|0022||previeww2l6,w3l7v2||[generate-parentheses](https://leetcode.com/problems/generate-parentheses/) \ [cn](https://leetcode-cn.com/problems/generate-parentheses/)|||
 |0024||||[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) \ [cn](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)|||
 |0025||||[reverse-nodes-in-k-group](https://leetcode.com/problems/reverse-nodes-in-k-group/) \ [cn](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)|||
 |0026||homeworkw1l3||[]() \ [cn](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|||
@@ -43,12 +43,12 @@
 |0299|Done|stkmw2d1||[]() \ [cn](https://leetcode-cn.com/problems/bulls-and-cows/)|上周google面经的原题||
 |0347||w2l6v3|大顶堆|[]() \ [cn](https://leetcode-cn.com/problems/top-k-frequent-elements/)||
 |0429||w2l6v2|N叉树层序遍历|[]() \ [cn](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)|||
-|0589||w2l6v2|N叉树前序遍历|[]() \ [cn](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal)|||
-|0590||w2l6v2|N叉树后序遍历|[]() \ [cn](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)|||
+|0589||w2l6v2|N叉树前序遍历|[n-ary-tree-preorder-traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) \ [cn](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal)|||
+|0590||w2l6v2|N叉树后序遍历|[n-ary-tree-postorder-traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) \ [cn](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)|||
 |0641||homeworkl1l4||[design-circular-deque](https://leetcode.com/problems/design-circular-deque) \ [cn](https://leetcode-cn.com/problems/design-circular-deque)|||
-|0917|Done|stkmw1d6|双指针、栈|[]() \ [cn](https://leetcode-cn.com/problems/reverse-only-letters/)|||
-|0977||stkmw1d5||[]() \ [cn](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)||||
-|1281||stkmw1d4||[]() \ [cn](https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|||
+|0917|Done|stkmw1d6|双指针、栈|[reverse-only-letters](https://leetcode.com/problems/reverse-only-letters/) \ [cn](https://leetcode-cn.com/problems/reverse-only-letters/)|||
+|0977||stkmw1d5||[squares-of-a-sorted-array](https://leetcode.com/problems/squares-of-a-sorted-array/) \ [cn](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)||||
+|1281||stkmw1d4||[subtract-the-product-and-sum-of-digits-of-an-integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) \ [cn](https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|||
 |面试题40||,w2l6v3|sort，大根堆，快排|[]() \ [cn](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)|||
 |面试题49||homeworkw2l6v3||[]() \ [cn](https://leetcode-cn.com/problems/chou-shu-lcof/)|和264题相同|||
 |面试题50|Done|stkmw1d7|哈希、散列表|[]() \ [cn](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)|||
