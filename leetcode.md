@@ -79,8 +79,8 @@
 |面试题05||w3stkmd17||[cn](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)|
 |面试题06||w3stkmd17||[cn](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)only|
 |面试题40||w1preview,w2l6v4,w2l6homework|sort，大根堆，快排|[cn](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) only|||
-|面试题49||w2l6v4homework||[]() \ [cn](https://leetcode-cn.com/problems/chou-shu-lcof/) only|和264题相同|||
-|面试题50|✓|w1stkmd7|哈希、散列表|[]() \ [cn](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) only|||
+|面试题49||w2l6v4homework||[cn](https://leetcode-cn.com/problems/chou-shu-lcof/) only|和264题相同|||
+|面试题50|✓|w1stkmd7|哈希、散列表|[cn](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) only|||
 |面试题59||w2stkmd10||[cn](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/) only|
 |面试题68||w3stkmd17||[cn](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/) only|||
 |面试题01.08||w2stkmd13||[cn](https://leetcode-cn.com/problems/zero-matrix-lcci/) only||
