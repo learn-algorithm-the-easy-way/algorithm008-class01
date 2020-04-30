@@ -76,8 +76,8 @@
 |1200||w2stkmd13||[minimum-absolute-difference](https://leetcode.com/problems/minimum-absolute-difference/) \ [cn](https://leetcode-cn.com/problems/minimum-absolute-difference/)|
 |1276||w3stkmd16||[number-of-burgers-with-no-waste-of-ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/) \ [cn](https://leetcode-cn.com/problems/number-of-burgers-with-no-waste-of-ingredients/)|
 |1281||w1stkmd4||[subtract-the-product-and-sum-of-digits-of-an-integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) \ [cn](https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|||
-|面试题05||w3stkmd17||[cn](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)|
-|面试题06||w3stkmd17||[cn](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)only|
+|面试题05||w3stkmd17||[cn](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) only|
+|面试题06||w3stkmd17||[cn](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) only|
 |面试题40||w1preview,w2l6v4,w2l6homework|sort，大根堆，快排|[cn](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) only|||
 |面试题49||w2l6v4homework||[cn](https://leetcode-cn.com/problems/chou-shu-lcof/) only|和264题相同|||
 |面试题50|✓|w1stkmd7|哈希、散列表|[cn](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) only|||
