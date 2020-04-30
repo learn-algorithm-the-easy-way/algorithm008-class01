@@ -4,21 +4,21 @@
 
 |序号|1|来源|算法和数据结构知识点|链接|其他知识点|备注|2|3|4|5|
 |---|---|---|---|---|---|---|---|---|---|---|
-|0001|✓|homeworkw1l3,w2l5v2|哈希表|[two-sum](https://leetcode.com/problems/two-sum/) \ [cn](https://leetcode-cn.com/problems/two-sum/)|
-|0011||w0preview||[container-with-most-water](https://leetcode.com/problems/container-with-most-water/) \ [cn](https://leetcode-cn.com/problems/container-with-most-water/)|||
-|0015||||[3sum](https://leetcode.com/problems/3sum/) \ [cn](https://leetcode-cn.com/problems/3sum/)|||
+|0001|✓|w1l3homework,w2l5v2,w1l3v4|哈希表|[two-sum](https://leetcode.com/problems/two-sum/) \ [cn](https://leetcode-cn.com/problems/two-sum/)|
+|0011||w0preview,w1l3v3,w1l3homework|array|[container-with-most-water](https://leetcode.com/problems/container-with-most-water/) \ [cn](https://leetcode-cn.com/problems/container-with-most-water/)|||
+|0015||w1l3homework,w1l3v4|array|[3sum](https://leetcode.com/problems/3sum/) \ [cn](https://leetcode-cn.com/problems/3sum/)|||
 |0020||previeww1l4||[valid-parentheses](https://leetcode.com/problems/valid-parentheses) \ [cn](https://leetcode-cn.com/problems/valid-parentheses/)|||
-|0021|✓|homeworkw1l3||[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/) \ [cn](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|||
+|0021|✓|w1l3homework||[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/) \ [cn](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|||
 |0022|✓|previeww2l6,w3l7v2||[generate-parentheses](https://leetcode.com/problems/generate-parentheses/) \ [cn](https://leetcode-cn.com/problems/generate-parentheses/)|||
-|0024||||[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) \ [cn](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)|||
-|0025||||[reverse-nodes-in-k-group](https://leetcode.com/problems/reverse-nodes-in-k-group/) \ [cn](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)|||
+|0024||w1l3homework|linked list|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) \ [cn](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)|||
+|0025||w1l3homework|linked list|[reverse-nodes-in-k-group](https://leetcode.com/problems/reverse-nodes-in-k-group/) \ [cn](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)|||
 |0026||w0preview,homeworkw1l3||[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) \ [cn](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|||
 |0042||homeworkw1l4||[trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/) \ [cn](https://leetcode-cn.com/problems/trapping-rain-water/)|||
 |0049||w2d1v2||[group-anagrams](https://leetcode.com/problems/group-anagrams/) \ [cn](https://leetcode-cn.com/problems/group-anagrams/)|||
 |0050||previeww2l6,w3l8v2||[powx-n](https://leetcode.com/problems/powx-n) \ [cn](https://leetcode-cn.com/problems/powx-n/)|||
 |0051||previeww2l6||[n-queens](https://leetcode.com/problems/n-queens/) \ [cn](https://leetcode-cn.com/problems/n-queens/)|||
-|0066||stkmw1d2,homeworkw1l3||[plus-one](https://leetcode.com/problems/plus-one/) \ [cn](https://leetcode-cn.com/problems/plus-one/)|||
-|0070||w0l2v2,w0preview,previeww2l6,w3l7v2||[climbing-stairs](https://leetcode.com/problems/climbing-stairs/) \ [cn](https://leetcode-cn.com/problems/climbing-stairs/)|||
+|0066||stkmw1d2,w1l3homework||[plus-one](https://leetcode.com/problems/plus-one/) \ [cn](https://leetcode-cn.com/problems/plus-one/)|||
+|0070||w0l2v2,w1l3v3,w0preview,previeww2l6,w3l7v2,w1l3homework|array|[climbing-stairs](https://leetcode.com/problems/climbing-stairs/) \ [cn](https://leetcode-cn.com/problems/climbing-stairs/)|||
 |0078||previeww2l6,w3l8v2||[subsets](https://leetcode.com/problems/subsets/) \ [cn](https://leetcode-cn.com/problems/subsets/)|||
 |0084||||[largest-rectangle-in-histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) \ [cn](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)|||
 |0088||homeworkw1l3||[merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/) \ [cn](https://leetcode-cn.com/problems/merge-sorted-array/)|||
@@ -26,18 +26,18 @@
 |0098||w3l7v2||[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/) \ [cn](https://leetcode-cn.com/problems/validate-binary-search-tree/)|
 |0104||w3l7v2||[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) \ [cn](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)|
 |0111||w3l7v2||[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) \ [cn](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)|
-|0125|w0l2v1|||[valid-palindrome](https://leetcode.com/problems/valid-palindrome/) \ [cn](https://leetcode-cn.com/problems/valid-palindrome/)||老师讲解自顶向下的编程方式||
-|0141||w0preview||[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/) \ [cn](https://leetcode-cn.com/problems/linked-list-cycle/)|||
-|0142||||[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii/) \ [cn](https://leetcode-cn.com/problems/linked-list-cycle-ii/)|||
+|0125||w0l2v1|||[valid-palindrome](https://leetcode.com/problems/valid-palindrome/) \ [cn](https://leetcode-cn.com/problems/valid-palindrome/)||老师讲解自顶向下的编程方式||
+|0141||w0preview,w1l3homework|linked list|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/) \ [cn](https://leetcode-cn.com/problems/linked-list-cycle/)|||
+|0142||w1l3homework|linked list|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii/) \ [cn](https://leetcode-cn.com/problems/linked-list-cycle-ii/)|||
 |0144||w2l6v2|二叉树前序遍历|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) \ [cn](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|||
 |0155||previeww1l4||[min-stack](https://leetcode.com/problems/min-stack/) \ [cn](https://leetcode-cn.com/problems/min-stack/)|||
 |0189||stkmw1d3,homeworkw1l3||[rotate-array](https://leetcode.com/problems/rotate-array/) \ [cn](https://leetcode-cn.com/problems/rotate-array/)|||
 |0200||w2l6v4||[number-of-islands](https://leetcode.com/problems/number-of-islands) \ [cn](https://leetcode-cn.com/problems/number-of-islands/)|||
-|0206||||[reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/) \ [cn](https://leetcode-cn.com/problems/reverse-linked-list/)|||
+|0206||w1l3v4,w1l3homework|linked list|[reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/) \ [cn](https://leetcode-cn.com/problems/reverse-linked-list/)|||
 |0226||w3l7v2||[invert-binary-tree/description](https://leetcode.com/problems/invert-binary-tree/description/) \ [cn](https://leetcode-cn.com/problems/invert-binary-tree/description/)||||
 |0239||,w2l6v3|双端队列，堆|[sliding-window-maximum](https://leetcode.com/problems/sliding-window-maximum/) \ [cn](https://leetcode-cn.com/problems/sliding-window-maximum/)|||
 |0242||w2l5v2|哈希表|[valid-anagram](https://leetcode.com/problems/valid-anagram/) \ [cn](https://leetcode-cn.com/problems/valid-anagram/)|||
-|0283||w0preview,stkmw1d1,homeworkw1l3,stkmw2d1||[move-zeroes](https://leetcode.com/problems/move-zeroes/) \ [cn](https://leetcode-cn.com/problems/move-zeroes/)|||
+|0283||w0preview,w1l3v2,stkmw1d1,w1l3homework,stkmw2d1|array|[move-zeroes](https://leetcode.com/problems/move-zeroes/) \ [cn](https://leetcode-cn.com/problems/move-zeroes/)|||
 |0290||stkmw2d1||[word-pattern](https://leetcode.com/problems/word-pattern/) \ [cn](https://leetcode-cn.com/problems/word-pattern/)|||
 |0297||w3l7v2||[serialize-and-deserialize-binary-tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) \ [cn](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)|
 |0299|✓|stkmw2d1||[bulls-and-cows](https://leetcode.com/problems/bulls-and-cows/) \ [cn](https://leetcode-cn.com/problems/bulls-and-cows/)|上周google面经的原题||
