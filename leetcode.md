@@ -4,9 +4,9 @@
 
 |序号|1|来源|算法和数据结构知识点|链接|其他知识点|备注|2|3|4|5|
 |---|---|---|---|---|---|---|---|---|---|---|
-|0001|✓|w1l3homework,w2l5v2,w2l5homework,w1l3v4,w3stkmd15|哈希表|[two-sum](https://leetcode.com/problems/two-sum/) \ [cn](https://leetcode-cn.com/problems/two-sum/)|
+|0001|✓|w1l3homework,w2l5v2,w2l5homework,w1l3v4,w3stkmd15|哈希表|[two-sum](https://leetcode.com/problems/two-sum/) \ [cn](https://leetcode-cn.com/problems/two-sum/)|经典高频|
 |0011||w0preview,w1l3v3,w1l3homework|array|[container-with-most-water](https://leetcode.com/problems/container-with-most-water/) \ [cn](https://leetcode-cn.com/problems/container-with-most-water/)|||
-|0015||w1l3homework,w1l3v4,w3stkmd15|array|[3sum](https://leetcode.com/problems/3sum/) \ [cn](https://leetcode-cn.com/problems/3sum/)|||
+|0015||w1l3homework,w1l3v4,w3stkmd15|array|[3sum](https://leetcode.com/problems/3sum/) \ [cn](https://leetcode-cn.com/problems/3sum/)|经典高频|
 |0017||w3l8v3,w3l8v3homework||[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) \ [cn](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)|
 |0020||w1l4preview,w1l4v2||[valid-parentheses](https://leetcode.com/problems/valid-parentheses) \ [cn](https://leetcode-cn.com/problems/valid-parentheses/)|||
 |0021|✓|w1l3homework||[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/) \ [cn](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|||
@@ -21,12 +21,12 @@
 |0049||w2l5v2,w2l5homework||[group-anagrams](https://leetcode.com/problems/group-anagrams/) \ [cn](https://leetcode-cn.com/problems/group-anagrams/)|||
 |0050||w2l6preview,w3l8v2preview,w3l8v2||[powx-n](https://leetcode.com/problems/powx-n) \ [cn](https://leetcode-cn.com/problems/powx-n/)|||
 |0051||w2l6preview,w3l8v3,w3l8v3homework||[n-queens](https://leetcode.com/problems/n-queens/) \ [cn](https://leetcode-cn.com/problems/n-queens/)|||
-|0054||w3stkmd16||[spiral-matrix](https://leetcode.com/problems/spiral-matrix/) \ [cn](https://leetcode-cn.com/problems/spiral-matrix/)|
+|0054||w3stkmd16||[spiral-matrix](https://leetcode.com/problems/spiral-matrix/) \ [cn](https://leetcode-cn.com/problems/spiral-matrix/)|经典中国古代数学问题|
 |0055||w3l8preview||[jump-game](https://leetcode.com/problems/jump-game/) \ [cn](https://leetcode-cn.com/problems/jump-game/)|
 |0066||w1stkmd2,w1l3homework||[plus-one](https://leetcode.com/problems/plus-one/) \ [cn](https://leetcode-cn.com/problems/plus-one/)|||
 |0069||w3l8preview||[sqrtx](https://leetcode.com/problems/sqrtx/) \ [cn](https://leetcode-cn.com/problems/sqrtx/)|
 |0070||w0l2v2,w0preview,w1l3v3,w1l3homework, <br> w2l6preview,w3l7v2,w3l7v2homework|array|[climbing-stairs](https://leetcode.com/problems/climbing-stairs/) \ [cn](https://leetcode-cn.com/problems/climbing-stairs/)|||
-|0075||w2stkmd14||[sort-colors](https://leetcode.com/problems/sort-colors/) \ [cn](https://leetcode-cn.com/problems/sort-colors/)|
+|0075||w2stkmd14||[sort-colors](https://leetcode.com/problems/sort-colors/) \ [cn](https://leetcode-cn.com/problems/sort-colors/)|经典高频、字节跳动、百度|
 |0077||w3l7v2homework||[combinations](https://leetcode.com/problems/combinations/) \ [cn](https://leetcode-cn.com/problems/combinations/)|
 |0078||w2l6preview,w3l8v2preview,w3l8v2||[subsets](https://leetcode.com/problems/subsets/) \ [cn](https://leetcode-cn.com/problems/subsets/)|||
 |0084||w1l4v2,w1l4homework||[largest-rectangle-in-histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) \ [cn](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)|||
@@ -62,7 +62,7 @@
 |0367||w3l8preview||[valid-perfect-square](https://leetcode.com/problems/valid-perfect-square/) \ [cn](https://leetcode-cn.com/problems/valid-perfect-square/)|
 |0392||w2stkmd09||[is-subsequence](https://leetcode.com/problems/is-subsequence/) \ [cn](https://leetcode-cn.com/problems/is-subsequence/)|
 |0412||w2stkmd11||[fizz-buzz](https://leetcode.com/problems/fizz-buzz/) \ [cn](https://leetcode-cn.com/problems/fizz-buzz/)|
-|0415||w3stkmd16||[add-strings](https://leetcode.com/problems/add-strings/) \ [cn](https://leetcode-cn.com/problems/add-strings/)|
+|0415||w3stkmd16||[add-strings](https://leetcode.com/problems/add-strings/) \ [cn](https://leetcode-cn.com/problems/add-strings/)|经典高频,吉大考研考试题|
 |0429||w2l6v2,w2l6homework|N叉树层序遍历|[n-ary-tree-level-order-traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) \ [cn](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)|||
 |0455||w3l8preview||[assign-cookies](https://leetcode.com/problems/assign-cookies/description/) \ [cn](https://leetcode-cn.com/problems/assign-cookies/description/)|
 |0543||w2stkmd13||[diameter-of-binary-tree](https://leetcode.com/problems/diameter-of-binary-tree/) \ [cn](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|
@@ -74,7 +74,7 @@
 |0977||w1stkmd5||[squares-of-a-sorted-array](https://leetcode.com/problems/squares-of-a-sorted-array/) \ [cn](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)||||
 |1021||w2stkmd10||[remove-outermost-parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) \ [cn](https://leetcode-cn.com/problems/remove-outermost-parentheses/)|
 |1200||w2stkmd13||[minimum-absolute-difference](https://leetcode.com/problems/minimum-absolute-difference/) \ [cn](https://leetcode-cn.com/problems/minimum-absolute-difference/)|
-|1276||w3stkmd16||[number-of-burgers-with-no-waste-of-ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/) \ [cn](https://leetcode-cn.com/problems/number-of-burgers-with-no-waste-of-ingredients/)|
+|1276||w3stkmd16||[number-of-burgers-with-no-waste-of-ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/) \ [cn](https://leetcode-cn.com/problems/number-of-burgers-with-no-waste-of-ingredients/)|经典高频,吉大考研考试题|
 |1281||w1stkmd4||[subtract-the-product-and-sum-of-digits-of-an-integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) \ [cn](https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|||
 |面试题05||w3stkmd17||[cn](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) only|
 |面试题06||w3stkmd17||[cn](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) only|
@@ -84,7 +84,7 @@
 |面试题59||w2stkmd10||[cn](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/) only|
 |面试题68||w3stkmd17||[cn](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/) only|||
 |面试题01.08||w2stkmd13||[cn](https://leetcode-cn.com/problems/zero-matrix-lcci/) only||
-|面试题17.09||w2stkmd09,w3stkmd15||[cn](https://leetcode-cn.com/problems/get-kth-magic-number-lcci/) only||
+|面试题17.09||w2stkmd09,w3stkmd15||[cn](https://leetcode-cn.com/problems/get-kth-magic-number-lcci/) only|经典高频|
 
 缩写说明
 
