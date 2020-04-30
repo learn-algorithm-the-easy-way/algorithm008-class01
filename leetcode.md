@@ -23,7 +23,7 @@
 |0055||w3l8preview||[jump-game](https://leetcode.com/problems/jump-game/) \ [cn](https://leetcode-cn.com/problems/jump-game/)|
 |0066||stkmw1d2,w1l3homework||[plus-one](https://leetcode.com/problems/plus-one/) \ [cn](https://leetcode-cn.com/problems/plus-one/)|||
 |0069||w3l8preview||[sqrtx](https://leetcode.com/problems/sqrtx/) \ [cn](https://leetcode-cn.com/problems/sqrtx/)|
-|0070||w0l2v2,w0preview,w1l3v3,w1l3homework,\nw2l6preview,w3l7v2,w3l7v2homework|array|[climbing-stairs](https://leetcode.com/problems/climbing-stairs/) \ [cn](https://leetcode-cn.com/problems/climbing-stairs/)|||
+|0070||w0l2v2,w0preview,w1l3v3,w1l3homework, \n w2l6preview,w3l7v2,w3l7v2homework|array|[climbing-stairs](https://leetcode.com/problems/climbing-stairs/) \ [cn](https://leetcode-cn.com/problems/climbing-stairs/)|||
 |0077||w3l7v2homework||[combinations](https://leetcode.com/problems/combinations/) \ [cn](https://leetcode-cn.com/problems/combinations/)|
 |0078||w2l6preview,w3l8v2preview,w3l8v2||[subsets](https://leetcode.com/problems/subsets/) \ [cn](https://leetcode-cn.com/problems/subsets/)|||
 |0084||w1l4v2,w1l4homework||[largest-rectangle-in-histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) \ [cn](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)|||
