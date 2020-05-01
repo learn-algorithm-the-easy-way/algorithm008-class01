@@ -86,6 +86,14 @@
 |面试题01.08||w2stkmd13||[cn](https://leetcode-cn.com/problems/zero-matrix-lcci/) only||
 |面试题17.09||w2stkmd09,<br>w3stkmd15||[cn](https://leetcode-cn.com/problems/get-kth-magic-number-lcci/) only|经典高频|
 
+|week|Numbers|Notes|
+|---|---|---|
+|w0|6|
+|w1|27|
+|w2|37|
+|w3|33|(尚未结束)|
+|合计|81|每周的题目有重复|
+
 缩写说明
 
 |说明|缩写|备注|
