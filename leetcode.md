@@ -4,8 +4,8 @@
 
 |序号|1|来源|算法和数据结构知识点|链接|其他知识点|备注|2|3|4|5|
 |---|---|---|---|---|---|---|---|---|---|---|
-|0001|✓|w1l3homework,w2l5v2,w2l5homework,w1l3v4,w3stkmd15|哈希表|[two-sum](https://leetcode.com/problems/two-sum/) \ [cn](https://leetcode-cn.com/problems/two-sum/)|经典高频|
-|0011||w0preview,w1l3v3,w1l3homework|array|[container-with-most-water](https://leetcode.com/problems/container-with-most-water/) \ [cn](https://leetcode-cn.com/problems/container-with-most-water/)|||
+|0001|✓|w1l3homework,w1l3v4,w2l5v2,w2l5homework,w3stkmd15|哈希表|[two-sum](https://leetcode.com/problems/two-sum/) \ [cn](https://leetcode-cn.com/problems/two-sum/)|经典高频|
+|0011|0501|w0preview,w1l3v3,w1l3homework|array|[container-with-most-water](https://leetcode.com/problems/container-with-most-water/) \ [cn](https://leetcode-cn.com/problems/container-with-most-water/)|||
 |0015||w1l3homework,w1l3v4,w3stkmd15|array|[3sum](https://leetcode.com/problems/3sum/) \ [cn](https://leetcode-cn.com/problems/3sum/)|经典高频|
 |0017||w3l8v3,w3l8v3homework||[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) \ [cn](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)|
 |0020||w1l4preview,w1l4v2||[valid-parentheses](https://leetcode.com/problems/valid-parentheses) \ [cn](https://leetcode-cn.com/problems/valid-parentheses/)|||
@@ -46,14 +46,14 @@
 |0155||w1l4preview,w1l4v2||[min-stack](https://leetcode.com/problems/min-stack/) \ [cn](https://leetcode-cn.com/problems/min-stack/)|||
 |0169||w3l8v3homework||[majority-element](https://leetcode.com/problems/majority-element/) \ [cn](https://leetcode-cn.com/problems/majority-element/)|
 |0189||w1stkmd3,homeworkw1l3||[rotate-array](https://leetcode.com/problems/rotate-array/) \ [cn](https://leetcode-cn.com/problems/rotate-array/)|||
-|0200||w2l6v5,w2l6homework||[number-of-islands](https://leetcode.com/problems/number-of-islands) \ [cn](https://leetcode-cn.com/problems/number-of-islands/)|||
+|0200||w2l6v5,w2l6homework,w3stkmd19||[number-of-islands](https://leetcode.com/problems/number-of-islands) \ [cn](https://leetcode-cn.com/problems/number-of-islands/)|||
 |0206||w1l3v4,w1l3homework|linked list|[reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/) \ [cn](https://leetcode-cn.com/problems/reverse-linked-list/)|||
 |0226||w3l7v2,w3l7v2homework||[invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/) \ [cn](https://leetcode-cn.com/problems/invert-binary-tree/)||||
 |0236||w3l7v2homework||[lowest-common-ancestor-of-a-binary-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) \ [cn](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)|
 |0239||w1l4v2,w1l4homework,w2l6v4,w2l6homework|双端队列，堆|[sliding-window-maximum](https://leetcode.com/problems/sliding-window-maximum/) \ [cn](https://leetcode-cn.com/problems/sliding-window-maximum/)|||
 |0242||w1preview,w2l5v2,w2l5homework|哈希表|[valid-anagram](https://leetcode.com/problems/valid-anagram/) \ [cn](https://leetcode-cn.com/problems/valid-anagram/)|||
 |0258||w2stkmd11||[add-digits](https://leetcode.com/problems/add-digits/) \ [cn](https://leetcode-cn.com/problems/add-digits/)|
-|0283||w0preview,w1l3v2,w1stkmd1,w1l3homework,w2stkmd08,w2stkmd11|array|[move-zeroes](https://leetcode.com/problems/move-zeroes/) \ [cn](https://leetcode-cn.com/problems/move-zeroes/)|||
+|0283||w0preview,w1l3v2,w1stkmd1,w1l3homework,<br>w2stkmd08,w2stkmd11|array|[move-zeroes](https://leetcode.com/problems/move-zeroes/) \ [cn](https://leetcode-cn.com/problems/move-zeroes/)|||
 |0290||w2stkmd08||[word-pattern](https://leetcode.com/problems/word-pattern/) \ [cn](https://leetcode-cn.com/problems/word-pattern/)|||
 |0297||w3l7v2,w3l7v2homework||[serialize-and-deserialize-binary-tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) \ [cn](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)|
 |0299|✓|w2stkmd08||[bulls-and-cows](https://leetcode.com/problems/bulls-and-cows/) \ [cn](https://leetcode-cn.com/problems/bulls-and-cows/)|上周google面经的原题||
@@ -65,7 +65,7 @@
 |0415||w3stkmd16||[add-strings](https://leetcode.com/problems/add-strings/) \ [cn](https://leetcode-cn.com/problems/add-strings/)|经典高频,吉大考研考试题|
 |0429||w2l6v2,w2l6homework|N叉树层序遍历|[n-ary-tree-level-order-traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) \ [cn](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)|||
 |0455||w3l8preview||[assign-cookies](https://leetcode.com/problems/assign-cookies/description/) \ [cn](https://leetcode-cn.com/problems/assign-cookies/description/)|
-|0543||w2stkmd13||[diameter-of-binary-tree](https://leetcode.com/problems/diameter-of-binary-tree/) \ [cn](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|
+|0543||w2stkmd13||[diameter-of-binary-tree](https://leetcode.com/problems/diameter-of-binary-tree/) \ [cn](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|面试高频|
 |0559||w2stkmd12||[maximum-depth-of-n-ary-tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) \ [cn](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/)|
 |0589||w2l6v2,w2l6homework|N叉树前序遍历|[n-ary-tree-preorder-traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) \ [cn](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal)|||
 |0590||w2l6v2,w2l6homework|N叉树后序遍历|[n-ary-tree-postorder-traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) \ [cn](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)|||
@@ -98,3 +98,5 @@
 |lz|第z课|
 |vx|第x个视频（一般以课为单位）|
 |cxsf|重学算法专栏|
+
+在2020-05-01之前的完成记录用✓表示，在2020-05-01（含）之后的直接写日期
