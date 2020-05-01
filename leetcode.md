@@ -4,7 +4,7 @@
 
 |序号|1|来源|算法和数据结构知识点|链接|其他知识点|备注|2|3|4|5|
 |---|---|---|---|---|---|---|---|---|---|---|
-|0001|✓|w1l3homework,w1l3v4,w2l5v2,w2l5homework,w3stkmd15|哈希表|[two-sum](https://leetcode.com/problems/two-sum/) \ [cn](https://leetcode-cn.com/problems/two-sum/)|经典高频|
+|0001|✓|w1l3homework,w1l3v4,<br>w2l5v2,w2l5homework,<br>w3stkmd15|哈希表|[two-sum](https://leetcode.com/problems/two-sum/) \ [cn](https://leetcode-cn.com/problems/two-sum/)|经典高频|
 |0011|0501|w0preview,w1l3v3,w1l3homework|array,two-pointers|[container-with-most-water](https://leetcode.com/problems/container-with-most-water/) \ [cn](https://leetcode-cn.com/problems/container-with-most-water/)|||
 |0015||w1l3homework,w1l3v4,w3stkmd15|array|[3sum](https://leetcode.com/problems/3sum/) \ [cn](https://leetcode-cn.com/problems/3sum/)|经典高频|
 |0017||w3l8v3,w3l8v3homework||[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) \ [cn](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)|
@@ -39,7 +39,7 @@
 |0110||w2stkmd12||[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree/) \ [cn](https://leetcode-cn.com/problems/balanced-binary-tree/)|
 |0111||w3l7v2,w3l7v2homework,w2stkmd12||[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) \ [cn](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)|
 |0122||w3l8preview||[best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) \ [cn](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii)|
-|0125|0501|w0l2v1||[valid-palindrome](https://leetcode.com/problems/valid-palindrome/) \ [cn](https://leetcode-cn.com/problems/valid-palindrome/)||老师讲解自顶向下的编程方式||
+|0125|0501|w0l2v1||[valid-palindrome](https://leetcode.com/problems/valid-palindrome/) \ [cn](https://leetcode-cn.com/problems/valid-palindrome/)|two-pointers|老师讲解自顶向下的编程方式||
 |0141|0501|w0preview,w1l3v4,w1l3homework|linked list|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/) \ [cn](https://leetcode-cn.com/problems/linked-list-cycle/)|||
 |0142||w1l3homework|linked list|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii/) \ [cn](https://leetcode-cn.com/problems/linked-list-cycle-ii/)|||
 |0144||w2l6v2,w2l6homework|二叉树前序遍历|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) \ [cn](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|||
