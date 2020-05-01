@@ -32,6 +32,75 @@
 #2.  1 阶 + 2 阶
 #3.  2 阶 + 1 阶
 ################################################################################
+# 继续向前走，但是这里递归的问题没解决，
+# TODO: 后面还是得回来解决傻递归&带记忆的递归的方案
+# TODO: 做其他的递归题目，回看老师的递归讲解视频
+# TODO: 训练 62\91\509 继续巩固
+################################################################################
+# 自己写的带记忆的递归（失败）
+class Solution:
+    def climbStairs(self, n: int) -> int:
+        array = [] * (n + 1)
+        return climb_staris(0, n, array)
+
+def climb_staris(level, _max, array):
+    if level > _max: return 0
+    if level == _max: return 1
+    if array[level]:
+        return array[level]
+    # process
+    array[level] = climb_staris(level + 1, _max, array) + climb_staris(level + 2, _max, array)
+    return array[level]
+    # drill down
+    # reverse state
+################################################################################
+# 2020-05-01 17:09:29
+#看题解，递归的修改不是很成功，但是看懂了其他的内容:
+
+# 代码收藏
+class Solution:
+    def climbStairs(self, n: int) -> int:
+        f = [1, 2]
+        for i in range(2, n):
+            f.append(f[i-1] + f[i-2])
+        return f[n-1]
+
+#作者：what-to-do
+#链接：https://leetcode-cn.com/problems/climbing-stairs/solution/solution-python3-by-bu-zhi-dao-gan-sha/
+#来源：力扣（LeetCode）
+#著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+class Solution:
+    def climbStairs(self, n: int) -> int:
+        a = b = 1
+        for _ in range(n):
+            a, b = b, a + b
+        return  a
+# 来自光头哥...
+# https://leetcode.com/problems/climbing-stairs/discuss/25296/3-4-short-lines-in-every-language
+# Similar questions:
+#91. Decode Ways
+#62. Unique Paths
+#509. Fibonacci Number
+#Practice them in a row for better understanding 😉
+################################################################################
+# 2020-05-01 17:02:38
+# 参考中文社区官方题解，修改了自己的”傻递归“的代码
+# 主要区别在level的判断上，自己之前对level和整个递归过程的理解是有问题的，现在也不确定自己是不是
+# 完全理解了。不理解就先记住吧....
+class Solution:
+    def climbStairs(self, n: int) -> int:
+        array = []
+        return climb_staris(0, n, array)
+
+def climb_staris(level, _max, array):
+    if level > _max: return 0
+    if level == _max: return 1
+    # process
+    return climb_staris(level + 1, _max, array) + climb_staris(level + 2, _max, array)
+    # drill down
+    # reverse state
+################################################################################
 # 2020-05-01 14:35:29
 # 再尝试一下递归，之后准备看题解和国际站的答案
 # 因为家务耽误了，刚才递归还是没成功，代码放在这里之后，直接去看答案

@@ -25,7 +25,7 @@
 |0055||w3l8preview||[jump-game](https://leetcode.com/problems/jump-game/) \ [cn](https://leetcode-cn.com/problems/jump-game/)|
 |0066||w1stkmd2,w1l3homework||[plus-one](https://leetcode.com/problems/plus-one/) \ [cn](https://leetcode-cn.com/problems/plus-one/)|||
 |0069||w3l8preview||[sqrtx](https://leetcode.com/problems/sqrtx/) \ [cn](https://leetcode-cn.com/problems/sqrtx/)|
-|0070||w0l2v2,w0preview,w1l3v3,w1l3homework, <br> w2l6preview,w3l7v2,w3l7v2homework|array|[climbing-stairs](https://leetcode.com/problems/climbing-stairs/) \ [cn](https://leetcode-cn.com/problems/climbing-stairs/)|||
+|0070|0501|w0l2v2,w0preview,w1l3v3,w1l3homework, <br> w2l6preview,w3l7v2,w3l7v2homework|array|[climbing-stairs](https://leetcode.com/problems/climbing-stairs/) \ [cn](https://leetcode-cn.com/problems/climbing-stairs/)|递归还得练|
 |0075||w2stkmd14||[sort-colors](https://leetcode.com/problems/sort-colors/) \ [cn](https://leetcode-cn.com/problems/sort-colors/)|经典高频、字节跳动、百度|
 |0077||w3l7v2homework||[combinations](https://leetcode.com/problems/combinations/) \ [cn](https://leetcode-cn.com/problems/combinations/)|
 |0078||w2l6preview,w3l8v2preview,w3l8v2||[subsets](https://leetcode.com/problems/subsets/) \ [cn](https://leetcode-cn.com/problems/subsets/)|||
@@ -39,8 +39,8 @@
 |0110||w2stkmd12||[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree/) \ [cn](https://leetcode-cn.com/problems/balanced-binary-tree/)|
 |0111||w3l7v2,w3l7v2homework,w2stkmd12||[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) \ [cn](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)|
 |0122||w3l8preview||[best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) \ [cn](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii)|
-|0125||w0l2v1||[valid-palindrome](https://leetcode.com/problems/valid-palindrome/) \ [cn](https://leetcode-cn.com/problems/valid-palindrome/)||老师讲解自顶向下的编程方式||
-|0141||w0preview,w1l3v4,w1l3homework|linked list|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/) \ [cn](https://leetcode-cn.com/problems/linked-list-cycle/)|||
+|0125|0501|w0l2v1||[valid-palindrome](https://leetcode.com/problems/valid-palindrome/) \ [cn](https://leetcode-cn.com/problems/valid-palindrome/)||老师讲解自顶向下的编程方式||
+|0141|0501|w0preview,w1l3v4,w1l3homework|linked list|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/) \ [cn](https://leetcode-cn.com/problems/linked-list-cycle/)|||
 |0142||w1l3homework|linked list|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii/) \ [cn](https://leetcode-cn.com/problems/linked-list-cycle-ii/)|||
 |0144||w2l6v2,w2l6homework|二叉树前序遍历|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) \ [cn](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|||
 |0155||w1l4preview,w1l4v2||[min-stack](https://leetcode.com/problems/min-stack/) \ [cn](https://leetcode-cn.com/problems/min-stack/)|||
@@ -53,7 +53,7 @@
 |0239||w1l4v2,w1l4homework,w2l6v4,w2l6homework|双端队列，堆|[sliding-window-maximum](https://leetcode.com/problems/sliding-window-maximum/) \ [cn](https://leetcode-cn.com/problems/sliding-window-maximum/)|||
 |0242||w1preview,w2l5v2,w2l5homework|哈希表|[valid-anagram](https://leetcode.com/problems/valid-anagram/) \ [cn](https://leetcode-cn.com/problems/valid-anagram/)|||
 |0258||w2stkmd11||[add-digits](https://leetcode.com/problems/add-digits/) \ [cn](https://leetcode-cn.com/problems/add-digits/)|
-|0283||w0preview,w1l3v2,w1stkmd1,w1l3homework,<br>w2stkmd08,w2stkmd11|array|[move-zeroes](https://leetcode.com/problems/move-zeroes/) \ [cn](https://leetcode-cn.com/problems/move-zeroes/)|||
+|0283|0501|w0preview,w1l3v2,w1stkmd1,w1l3homework,<br>w2stkmd08,w2stkmd11|array|[move-zeroes](https://leetcode.com/problems/move-zeroes/) \ [cn](https://leetcode-cn.com/problems/move-zeroes/)|||
 |0290||w2stkmd08||[word-pattern](https://leetcode.com/problems/word-pattern/) \ [cn](https://leetcode-cn.com/problems/word-pattern/)|||
 |0297||w3l7v2,w3l7v2homework||[serialize-and-deserialize-binary-tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) \ [cn](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)|
 |0299|✓|w2stkmd08||[bulls-and-cows](https://leetcode.com/problems/bulls-and-cows/) \ [cn](https://leetcode-cn.com/problems/bulls-and-cows/)|上周google面经的原题||
