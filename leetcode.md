@@ -8,11 +8,11 @@
 |0011|0501|w0preview,<br>w1l3v3,w1l3homework|array,two-pointers|[container-with-most-water](https://leetcode.com/problems/container-with-most-water/) \ [cn](https://leetcode-cn.com/problems/container-with-most-water/)|||
 |0015||w1l3homework,w1l3v4,<br>w3stkmd15|array|[3sum](https://leetcode.com/problems/3sum/) \ [cn](https://leetcode-cn.com/problems/3sum/)|经典高频|
 |0017||w3l8v3,w3l8v3homework||[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) \ [cn](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)|
-|0020||w1l4preview,w1l4v2||[valid-parentheses](https://leetcode.com/problems/valid-parentheses) \ [cn](https://leetcode-cn.com/problems/valid-parentheses/)|||
-|0021|✓|w1l3homework||[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/) \ [cn](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|||
+|0020|0502|w1l4preview,w1l4v2|栈|[valid-parentheses](https://leetcode.com/problems/valid-parentheses) \ [cn](https://leetcode-cn.com/problems/valid-parentheses/)|||
+|0021|✓<br>0501|w1l3homework|linked list|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/) \ [cn](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|||
 |0022|✓|w2l6preview,<br>w3l7v2,w3l7v2homework,w3l8v1||[generate-parentheses](https://leetcode.com/problems/generate-parentheses/) \ [cn](https://leetcode-cn.com/problems/generate-parentheses/)|||
 |0023||w2stkmd14||[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/) \ [cn](https://leetcode-cn.com/problems/merge-k-sorted-lists/)|
-|0024||w1l3homework|linked list|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) \ [cn](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)|||
+|0024||w1l3homework|linked list、递归|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) \ [cn](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)|||
 |0025||w1l3homework|linked list|[reverse-nodes-in-k-group](https://leetcode.com/problems/reverse-nodes-in-k-group/) \ [cn](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)|||
 |0026||w0preview,<br>homeworkw1l3||[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) \ [cn](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|||
 |0042||w1l4homework||[trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/) \ [cn](https://leetcode-cn.com/problems/trapping-rain-water/)|||
