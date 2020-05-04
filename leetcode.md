@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|---|---|---|---|---|
 |0001|✓<br>0501|w1l3homework,w1l3v4,<br>w2l5v2,w2l5homework,<br>w3stkmd15|哈希表|[two-sum](https://leetcode.com/problems/two-sum/) \ [cn](https://leetcode-cn.com/problems/two-sum/)|经典高频|
 |0011|0501|w0preview,<br>w1l3v3,w1l3homework|array,two-pointers|[container-with-most-water](https://leetcode.com/problems/container-with-most-water/) \ [cn](https://leetcode-cn.com/problems/container-with-most-water/)|||
-|0015||w1l3homework,w1l3v4,<br>w3stkmd15|array|[3sum](https://leetcode.com/problems/3sum/) \ [cn](https://leetcode-cn.com/problems/3sum/)|经典高频|
+|0015||w1l3homework,w1l3v4,<br>w3stkmd15,w3stkmd20|array|[3sum](https://leetcode.com/problems/3sum/) \ [cn](https://leetcode-cn.com/problems/3sum/)|经典高频|
 |0017||w3l8v3,w3l8v3homework||[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) \ [cn](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)|
 |0020|0502|w1l4preview,w1l4v2|栈|[valid-parentheses](https://leetcode.com/problems/valid-parentheses) \ [cn](https://leetcode-cn.com/problems/valid-parentheses/)|||
 |0021|✓<br>0502|w1l3homework|linked list|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/) \ [cn](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|||
@@ -25,7 +25,7 @@
 |0055||w3l8preview||[jump-game](https://leetcode.com/problems/jump-game/) \ [cn](https://leetcode-cn.com/problems/jump-game/)|
 |0066||w1stkmd2,w1l3homework||[plus-one](https://leetcode.com/problems/plus-one/) \ [cn](https://leetcode-cn.com/problems/plus-one/)|||
 |0069||w3l8preview||[sqrtx](https://leetcode.com/problems/sqrtx/) \ [cn](https://leetcode-cn.com/problems/sqrtx/)|
-|0070|0501|w0l2v2,w0preview,<br>w1l3v3,w1l3homework, <br> w2l6preview,<br>w3l7v2,w3l7v2homework|array|[climbing-stairs](https://leetcode.com/problems/climbing-stairs/) \ [cn](https://leetcode-cn.com/problems/climbing-stairs/)|递归还得练|
+|0070|0501|w0l2v2,w0preview,<br>w1l3v3,w1l3homework, <br> w2l6preview,<br>w3l7v2,w3l7v2homework,w3stkmd22|array|[climbing-stairs](https://leetcode.com/problems/climbing-stairs/) \ [cn](https://leetcode-cn.com/problems/climbing-stairs/)|递归还得练|
 |0075||w2stkmd14||[sort-colors](https://leetcode.com/problems/sort-colors/) \ [cn](https://leetcode-cn.com/problems/sort-colors/)|经典高频、字节跳动、百度|
 |0077||w3l7v2homework||[combinations](https://leetcode.com/problems/combinations/) \ [cn](https://leetcode-cn.com/problems/combinations/)|
 |0078||w2l6preview,<br>w3l8v2preview,w3l8v2||[subsets](https://leetcode.com/problems/subsets/) \ [cn](https://leetcode-cn.com/problems/subsets/)|||
@@ -51,7 +51,7 @@
 |0226||w3l7v2,w3l7v2homework||[invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/) \ [cn](https://leetcode-cn.com/problems/invert-binary-tree/)||||
 |0236||w3l7v2homework||[lowest-common-ancestor-of-a-binary-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) \ [cn](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)|
 |0239||w1l4v2,w1l4homework,<br>w2l6v4,w2l6homework|双端队列，堆|[sliding-window-maximum](https://leetcode.com/problems/sliding-window-maximum/) \ [cn](https://leetcode-cn.com/problems/sliding-window-maximum/)|||
-|0242||w1preview<br>,w2l5v2,w2l5homework|哈希表|[valid-anagram](https://leetcode.com/problems/valid-anagram/) \ [cn](https://leetcode-cn.com/problems/valid-anagram/)|||
+|0242||w1preview<br>,w2l5v2,w2l5homework<br>w3stkmd21|哈希表|[valid-anagram](https://leetcode.com/problems/valid-anagram/) \ [cn](https://leetcode-cn.com/problems/valid-anagram/)|||
 |0258||w2stkmd11||[add-digits](https://leetcode.com/problems/add-digits/) \ [cn](https://leetcode-cn.com/problems/add-digits/)|
 |0283|0501|w0preview,<br>w1l3v2,w1stkmd1,w1l3homework,<br>w2stkmd08,w2stkmd11|array|[move-zeroes](https://leetcode.com/problems/move-zeroes/) \ [cn](https://leetcode-cn.com/problems/move-zeroes/)|||
 |0290||w2stkmd08||[word-pattern](https://leetcode.com/problems/word-pattern/) \ [cn](https://leetcode-cn.com/problems/word-pattern/)|||
