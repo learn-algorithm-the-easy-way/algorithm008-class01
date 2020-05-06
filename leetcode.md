@@ -30,7 +30,7 @@
 |0077||w3l7v2homework||[combinations](https://leetcode.com/problems/combinations/) \ [cn](https://leetcode-cn.com/problems/combinations/)|
 |0078||w2l6preview,<br>w3l8v2preview,w3l8v2||[subsets](https://leetcode.com/problems/subsets/) \ [cn](https://leetcode-cn.com/problems/subsets/)|||
 |0084||w1l4v2,w1l4homework||[largest-rectangle-in-histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) \ [cn](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)|||
-|0088|0504|w1l3homework|双指针、数组|[merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/) \ [cn](https://leetcode-cn.com/problems/merge-sorted-array/)|||
+|0088|0504|w1l3homework|双指针、数组|[merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/) \ [cn](https://leetcode-cn.com/problems/merge-sorted-array/)||0506|
 |0094||w1preview,<br>w2l6v2,w2l6homework|二叉树中序遍历|[binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) \ [cn](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|||
 |0098||w3l7v2,w3l7v2homework||[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/) \ [cn](https://leetcode-cn.com/problems/validate-binary-search-tree/)|
 |0102||w3l8preview||[binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) \ [cn](https://leetcode-cn.com/problems/binary-tree-level-order-traversal)|

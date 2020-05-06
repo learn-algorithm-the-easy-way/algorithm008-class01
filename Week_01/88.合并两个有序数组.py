@@ -35,7 +35,72 @@
 # 输出: [1,2,2,3,5,6]
 # 
 #
-
+################################################################################
+# 2020-05-06 16:24:36
+# 抄了一遍题解，对于跳出循环之后那一下还是不是很理解，以后再理解吧。交给时间
+    def merge(self, nums1, m, nums2, n):
+        """
+        Do not return anything, modify nums1 in-place instead.
+        """
+        p1 = m - 1
+        p2 = n - 1
+        p = m + n - 1
+        while p1 >= 0 and p2 >= 0:
+            if nums1[p1] < nums2[p2]:
+                nums1[p] = nums2[p2]
+                p2 -= 1
+            else:
+                nums1[p] = nums1[p1]
+                p1 -= 1
+            p -= 1
+        print("p,p1,p2:",p,p1,p2)
+        print("nums1:",nums1)
+        print("nums1[:p2 + 1]:", nums1[:p2 + 1])
+        print("nums2[:p2 + 1]:", nums2[:p2 + 1])
+        nums1[:p2 + 1] = nums2[:p2 + 1]
+        print(nums1)
+        print("-----")
+################################################################################
+# 2020-05-06 16:05:41
+# 第二种顺序的方式
+#    def merge(self, nums1, m, nums2, n):
+#        """
+#        Do not return anything, modify nums1 in-place instead.
+#        """
+#        p1 = p2 = 0
+#        nums1_copy, nums1[:] = nums1[:m], []
+#        while p1 < m and p2 < n:
+#            if nums1_copy[p1] < nums2[p2]:
+#                nums1.append(nums1_copy[p1])
+#                p1 += 1
+#            else:
+#                nums1.append(nums2[p2])
+#                p2 += 1
+#        if p1 < m:
+#            nums1[p1+p2:] = nums1_copy[p1:]
+#        if p2 < n:
+#            nums1[p1+p2:] = nums2[p2:]
+#Accepted
+#59/59 cases passed (40 ms)
+#Your runtime beats 69.57 % of python3 submissions
+#Your memory usage beats 6.9 % of python3 submissions (13.7 MB)
+################################################################################
+# 2020-05-06 15:57:57
+# trick法已通过
+#    def merge(self, nums1, m, nums2, n):
+#        """
+#        Do not return anything, modify nums1 in-place instead.
+#        """
+#        nums1[:] = sorted(nums1[:m] + nums2)
+#        print(nums1)
+#Accepted
+#59/59 cases passed (28 ms)
+#Your runtime beats 99.27 % of python3 submissions
+#Your memory usage beats 6.9 % of python3 submissions (13.8 MB)
+################################################################################
+# 2020-05-06 15:53:07
+# 尝试二刷此题
+# 一共有三种方法：python trick法、双指针法、倒序双指针法
 ################################################################################
 # 2020-05-04 23:31:58 整理完的代码如下
 # 这里另一种写法是取消p，数组的增加采用 list.append()的方案，就是答案中的方法2了
