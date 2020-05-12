@@ -23,7 +23,7 @@
 |0049||w2l5v2,w2l5homework||[group-anagrams](https://leetcode.com/problems/group-anagrams/) \ [cn](https://leetcode-cn.com/problems/group-anagrams/)|||
 |0050||w2l6preview,<br>w3l8v2preview,w3l8v2||[powx-n](https://leetcode.com/problems/powx-n) \ [cn](https://leetcode-cn.com/problems/powx-n/)|||
 |0051||w2l6preview,<br>w3l8v3,w3l8v3homework,w3stkmd27||[n-queens](https://leetcode.com/problems/n-queens/) \ [cn](https://leetcode-cn.com/problems/n-queens/)|||
-|0053||w4l11preview|[maximum-subarray](https://leetcode.com/problems/maximum-subarray/) \ [cn](https://leetcode-cn.com/problems/maximum-subarray/)|||
+|0053||w4l11preview||[maximum-subarray](https://leetcode.com/problems/maximum-subarray/) \ [cn](https://leetcode-cn.com/problems/maximum-subarray/)|||
 |0054||w3stkmd16||[spiral-matrix](https://leetcode.com/problems/spiral-matrix/) \ [cn](https://leetcode-cn.com/problems/spiral-matrix/)|经典中国古代数学问题|
 |0055||w3l8preview,<br>w4l10v1homework||[jump-game](https://leetcode.com/problems/jump-game/) \ [cn](https://leetcode-cn.com/problems/jump-game/)|
 |0066||w1stkmd2,w1l3homework||[plus-one](https://leetcode.com/problems/plus-one/) \ [cn](https://leetcode-cn.com/problems/plus-one/)|||
